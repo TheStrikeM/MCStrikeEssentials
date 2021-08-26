@@ -1,0 +1,10 @@
+name: StrikeEssentials
+version: '${project.version}'
+main: me.thestrikem.essentials.Main
+api-version: 1.16
+authors: [ TheStrikeM ]
+website: https://github.com/thestrikem
+commands:
+  joiner:
+    description: Some desc
+    usage: /<command> <sub-command>
